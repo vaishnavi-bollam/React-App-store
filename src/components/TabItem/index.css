@@ -1,0 +1,28 @@
+/* Write your CSS here */
+.borderStyle {
+  border-bottom: 2px solid #2563eb;
+}
+
+.textStyle {
+  color: #2563eb;
+}
+/* Write your CSS here */
+* {
+  box-sizing: border-box;
+  font-family: Bree Serif;
+}
+
+.liTabItemContainer {
+  padding: 4px;
+  border-bottom: 2px solid #7b8794;
+  cursor: pointer;
+}
+
+.tabItemBtn {
+  background-color: transparent;
+  border-color: transparent;
+  font-family: Roboto;
+  color: #7b8794;
+  font-weight: bold;
+  cursor: pointer;
+}

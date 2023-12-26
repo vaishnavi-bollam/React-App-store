@@ -1,0 +1,26 @@
+/* Write your CSS here */
+/* Write your CSS here */
+* {
+  box-sizing: border-box;
+  font-family: Bree Serif;
+}
+
+.tabItemImage {
+  height: 45px;
+  width: 45px;
+}
+
+.itemName {
+  text-align: center;
+}
+
+.liTabContainer {
+  margin: 1rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: white;
+  padding: 1rem;
+  border-radius: 8px;
+}
